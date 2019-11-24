@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://yugeshk.github.io"
+url: "https://akshay-gupta123.github.io/akshay-gupta123.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -31,9 +31,9 @@ force-https: True
 
 lang: "en"
 author: "Akshay Gupta"
-title: "{ Akshay Gupata }"
-description: "Be The One, To Whom The World Follow - Akshay Gupta"
-keywords: "akshay,gupta"
+title: "# Akshay Gupta #"
+description: "BE THE CHANGE,RATHER TO BRING IT - Akshay Gupta"
+keywords: "akshay, gupta"
 favicon: "/img/geek.png"
 
 ################
@@ -133,18 +133,15 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/pclub.png"
-    date: "March 2019 - Present"
-    description: "Programming Club Coordinator"
-  - image: "/img/timeline/purdue.png"
-    date: "May 2019 - July 2019"
-    description: "Research Assistant at Purdue University"
-  - image: "/img/timeline/soc.png"
-    date: "May 2019 - July 2019"
-    description: "Program Coordinator \n Summer of Code, IIT Kanpur"
-  - image: "/img/timeline/nuta_logo.png"
-    date: "May 2018 - July 2018"
-    description: "Member of Technical Staff \n Nutanix"
+  - image: "/img/timeline/iitk.png"
+    date: "July 2019 - Present"
+    description: "Student(Under Graduate) \n At IITK"
+  - image: "/img/timeline/amu.jpg"
+    date: "May 2016 - July 2018"
+    description: "Student(Intermediate) \n At Sayyid Hamid School,AMU"
+  - image: "/img/timeline/rrk.jpg"
+    date: "May 2016 - July 2018"
+    description: "Student(SSC) \n R.R.K. Sen. Sec. School"
 
 # First image of the Timeline
 
@@ -154,8 +151,8 @@ timeline-img: "/img/timeline/iitk.png"
 # Contact #
 ###########
 
-email: "yugesh.kothari@gmail.com"
-phone: +91-9123159658
+email: "akshay.bis2000@gmail.com"
+phone: +91-9411459662
 
 ################
 # Author Blurb #
@@ -165,7 +162,7 @@ phone: +91-9123159658
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Yugesh is a third year CS undergrad at IIT Kanpur. He's passionate about technology and loves building systems."
+author_blurb: "Akshay is a First year CS undergrad at IIT Kanpur. He's passionate about technology and loves doing lots of coding."
 author_blurb_image: "/img/author.jpg"
 
 ##################
@@ -174,11 +171,11 @@ author_blurb_image: "/img/author.jpg"
 
 social:
   - title: "facebook"
-    url: "https://www.facebook.com/yugesh.kothari"
-  - title: "twitter"
-    url: "https://twitter.com/YugeshKothari"
+    url: "https://www.facebook.com/gupta.akshay123"
+  - title: "linkedin"
+    url: "https://linkedin.com/in/akshay18082001"
   - title: "github"
-    url: "https://github.com/yugeshk"
+    url: "https://github.com/akshay-gupta123"
 
 ############
 # 404 page #
