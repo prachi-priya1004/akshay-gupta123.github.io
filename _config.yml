@@ -58,7 +58,7 @@ delete-delay: 3000
 lines: # You can add HTML Tags in the Text
   - text: "Life is too short to write documentation."
   - text: "Just kidding, go document your code."
-  - text: "Where’s your will to be weird?"
+  - text: "Talk is Cheap , Where is Your Code ?"
 
 me-img: "/img/author.jpg"
 
