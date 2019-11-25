@@ -1,5 +1,5 @@
 Homepage using Jekyll with support for tagged blogs etc.
 
-## Warning
+!!! Warning
 
-Pagionation might not work locally without jekyll-paginate
+Pagionation might not work locally without jekyll-paginate so we careful.
